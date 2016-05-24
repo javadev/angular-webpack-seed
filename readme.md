@@ -1,8 +1,9 @@
 # Modern app seed for legacy Angular apps (1.x) 
 
-[![Build Status](https://travis-ci.org/zxbodya/angular-webpack-seed.svg?branch=master)](https://travis-ci.org/zxbodya/angular-webpack-seed)
-[![Coverage Status](https://coveralls.io/repos/zxbodya/angular-webpack-seed/badge.svg?branch=master&service=github)](https://coveralls.io/github/zxbodya/angular-webpack-seed?branch=master)
-[![codecov.io](https://codecov.io/github/zxbodya/angular-webpack-seed/coverage.svg?branch=master)](https://codecov.io/github/zxbodya/angular-webpack-seed?branch=master)
+[![Build Status](https://travis-ci.org/javadev/angular-webpack-seed.svg?branch=master)](https://travis-ci.org/javadev/angular-webpack-seed)
+[![Coverage Status](https://coveralls.io/repos/javadev/angular-webpack-seed/badge.svg?branch=master&service=github)](https://coveralls.io/github/javadev/angular-webpack-seed?branch=master)
+[![codecov.io](https://codecov.io/github/javadev/angular-webpack-seed/coverage.svg?branch=master)](https://codecov.io/github/javadev/angular-webpack-seed?branch=master)
+[![Dependency Status](https://david-dm.org/javadev/angular-webpack/status.svg)](https://david-dm.org/javadev/angular-webpack#info=dependencies) [![devDependency Status](https://david-dm.org/javadev/angular-webpack/dev-status.svg)](https://david-dm.org/javadev/angular-webpack#info=devDependencies)
 
 It is quite opinionated, so feel free - to make suggestions to improve it.
 
