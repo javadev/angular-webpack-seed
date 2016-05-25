@@ -15,7 +15,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "angular": "^1.5.5"
+    "angular": "^1.4.1"
   },
   "devDependencies": {
     "angular-mocks": "^1.4.1",
@@ -32,16 +32,16 @@
     "coveralls": "^2.11.6",
     "css-loader": "^0.23.0",
     "eslint": "^2.2.0",
-    "eslint-config-airbnb": "^9.0.1",
+    "eslint-config-airbnb": "^6.0.2",
     "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.8.4",
     "html-loader": "^0.4.0",
     "jasmine-core": "^2.3.4",
     "karma": "^0.13.10",
-    "karma-chrome-launcher": "^1.0.1",
+    "karma-chrome-launcher": "^0.2.0",
     "karma-cli": "^0.1.0",
     "karma-coverage": "^1.0.0",
-    "karma-firefox-launcher": "^1.0.0",
+    "karma-firefox-launcher": "^0.1.6",
     "karma-jasmine": "^1.0.2",
     "karma-sourcemap-loader": "^0.3.5",
     "karma-webpack": "^1.5.1",
