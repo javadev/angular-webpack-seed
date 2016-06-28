@@ -47,7 +47,7 @@
     "karma-webpack": "^1.5.1",
     "loader-utils": "^0.2.12",
     "ng-annotate-webpack-plugin": "^0.1.2",
-    "node-sass": "^3.2.0",
+    "node-sass": "^4.0.0",
     "postcss-loader": "^0.9.1",
     "rimraf": "^2.5.0",
     "sass-loader": "^3.0.0",
