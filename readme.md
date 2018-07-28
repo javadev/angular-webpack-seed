@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.org/javadev/angular-webpack-seed.svg?branch=master)](https://travis-ci.org/javadev/angular-webpack-seed)
 [![Coverage Status](https://coveralls.io/repos/javadev/angular-webpack-seed/badge.svg?branch=master&service=github)](https://coveralls.io/github/javadev/angular-webpack-seed?branch=master)
 [![codecov.io](https://codecov.io/github/javadev/angular-webpack-seed/coverage.svg?branch=master)](https://codecov.io/github/javadev/angular-webpack-seed?branch=master)
-[![Dependency Status](https://www.versioneye.com/user/projects/5742cccace8d0e004505eaf2/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5742cccace8d0e004505eaf2)
 
 It is quite opinionated, so feel free - to make suggestions to improve it.
 
